@@ -46,3 +46,13 @@ table {
  border-collapse: collapse;
  border-spacing: 0;
 }
+
+body {
+   font-family: 'Montserrat', sans-serif;
+   color: rgb(204, 201, 188);
+}
+
+a {
+   color: inherit;
+   text-decoration: inherit;
+}

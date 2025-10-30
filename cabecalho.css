@@ -1,4 +1,10 @@
 .cabecalho {
     background-color: #a1b6ca;
     color: aliceblue;
+
+    text-align: center;
+    font-size: 0.6rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.23em;
 }
